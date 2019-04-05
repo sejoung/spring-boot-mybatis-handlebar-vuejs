@@ -6,6 +6,3 @@
          /___/                  /____/
 
 >> Spring boot - ${spring-boot.version}
->> Java        - ${app.java.version}
->> location    - ${spring.config.location}
->> profiles    - ${spring.profiles.active}
