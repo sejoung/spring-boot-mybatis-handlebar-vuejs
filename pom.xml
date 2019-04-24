@@ -91,7 +91,6 @@
             <artifactId>handlebars-jackson2</artifactId>
             <version>4.0.6</version>
         </dependency>
-        <!-- handlebar -->
 
         <!-- mssql-jdbc -->
         <dependency>
@@ -99,7 +98,6 @@
             <artifactId>mssql-jdbc</artifactId>
             <version>6.2.2.jre8</version>
         </dependency>
-        <!-- mssql-jdbc -->
 
     </dependencies>
     <build>
